@@ -138,8 +138,7 @@ Each product includes:
 
 ## 👩‍💻 Designer
 
-**Designed by:** *[Your Name]*  
-**Role:** UI/UX Designer  
+**Designed by:** Jayashree   
 **Tool:** Figma  
 
 ---
@@ -149,6 +148,4 @@ Each product includes:
 This project is created for educational and portfolio purposes only.  
 You are free to use it for learning or frontend implementation.
 
----
 
-⭐ If you like this design, consider giving it a star!
